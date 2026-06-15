@@ -1,0 +1,44 @@
+Start Training: 2024-09-18T20:51:40.997314+02:00
+Model: classical vae (prob), Pretrained Model: glove-wiki-gigaword-300
+Dataset: AgNews, Batch: 200, GPU: [0]
+Epoch 1/20, Train Loss: 0.8943
+Epoch 1/20, CV: 0.6195, NPMI: 0.1517, TD: 0.9240
+Epoch 2/20, Train Loss: 0.8580
+Epoch 2/20, CV: 0.5432, NPMI: 0.0728, TD: 0.9560
+Epoch 3/20, Train Loss: 0.8509
+Epoch 3/20, CV: 0.5318, NPMI: 0.0496, TD: 0.9560
+Epoch 4/20, Train Loss: 0.8463
+Epoch 4/20, CV: 0.5575, NPMI: 0.0338, TD: 0.9580
+Epoch 5/20, Train Loss: 0.8423
+Epoch 5/20, CV: 0.5451, NPMI: 0.0235, TD: 0.9660
+Epoch 6/20, Train Loss: 0.8387
+Epoch 6/20, CV: 0.4868, NPMI: -0.0177, TD: 0.9780
+Epoch 7/20, Train Loss: 0.8357
+Epoch 7/20, CV: 0.4398, NPMI: -0.0199, TD: 0.9840
+Epoch 8/20, Train Loss: 0.8327
+Epoch 8/20, CV: 0.4481, NPMI: -0.0590, TD: 0.9820
+Epoch 9/20, Train Loss: 0.8304
+Epoch 9/20, CV: 0.3791, NPMI: -0.0906, TD: 0.9920
+Epoch 10/20, Train Loss: 0.8280
+Epoch 10/20, CV: 0.4243, NPMI: -0.0743, TD: 0.9940
+Epoch 11/20, Train Loss: 0.8260
+Epoch 11/20, CV: 0.3803, NPMI: -0.0966, TD: 0.9960
+Epoch 12/20, Train Loss: 0.8242
+Epoch 12/20, CV: 0.3639, NPMI: -0.0972, TD: 0.9880
+Epoch 13/20, Train Loss: 0.8226
+Epoch 13/20, CV: 0.3413, NPMI: -0.1216, TD: 0.9860
+Epoch 14/20, Train Loss: 0.8209
+Epoch 14/20, CV: 0.3642, NPMI: -0.1143, TD: 0.9960
+Epoch 15/20, Train Loss: 0.8197
+Epoch 15/20, CV: 0.3425, NPMI: -0.1324, TD: 0.9940
+Epoch 16/20, Train Loss: 0.8188
+Epoch 16/20, CV: 0.3533, NPMI: -0.1274, TD: 0.9880
+Epoch 17/20, Train Loss: 0.8175
+Epoch 17/20, CV: 0.3274, NPMI: -0.1241, TD: 0.9920
+Epoch 18/20, Train Loss: 0.8165
+Epoch 18/20, CV: 0.3388, NPMI: -0.1535, TD: 0.9920
+Epoch 19/20, Train Loss: 0.8158
+Epoch 19/20, CV: 0.3420, NPMI: -0.1234, TD: 0.9860
+Epoch 20/20, Train Loss: 0.8148
+Epoch 20/20, CV: 0.3286, NPMI: -0.1540, TD: 0.9860
+End Training: 2024-09-18T22:19:34.516351+02:00

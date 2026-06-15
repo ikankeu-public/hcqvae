@@ -1,0 +1,7 @@
+datasets==2.20.0
+octis==1.14.0
+gensim==4.3.3
+pennylane==0.37.0
+torch==2.4.1
+numpy==2.1.1
+nltk==3.8.1

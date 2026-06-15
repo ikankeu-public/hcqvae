@@ -1,0 +1,44 @@
+Start Training: 2024-09-18T16:53:52.173520+02:00
+Model: hybrid vae (prob), Pretrained Model: glove-wiki-gigaword-300, Quantum Circuit: AE->SEL->SEL->SEL->Prob
+Dataset: AgNews, Batch: 200, GPU: [0]
+Epoch 1/20, Train Loss: 0.8946
+Epoch 1/20, CV: 0.5873, NPMI: 0.1045, TD: 0.8200
+Epoch 2/20, Train Loss: 0.8436
+Epoch 2/20, CV: 0.5940, NPMI: 0.0783, TD: 0.9320
+Epoch 3/20, Train Loss: 0.8289
+Epoch 3/20, CV: 0.6046, NPMI: 0.1272, TD: 0.9460
+Epoch 4/20, Train Loss: 0.8234
+Epoch 4/20, CV: 0.6006, NPMI: 0.1198, TD: 0.9520
+Epoch 5/20, Train Loss: 0.8195
+Epoch 5/20, CV: 0.6043, NPMI: 0.1278, TD: 0.9500
+Epoch 6/20, Train Loss: 0.8170
+Epoch 6/20, CV: 0.5965, NPMI: 0.1177, TD: 0.9680
+Epoch 7/20, Train Loss: 0.8151
+Epoch 7/20, CV: 0.5913, NPMI: 0.1057, TD: 0.9520
+Epoch 8/20, Train Loss: 0.8135
+Epoch 8/20, CV: 0.5845, NPMI: 0.0998, TD: 0.9640
+Epoch 9/20, Train Loss: 0.8123
+Epoch 9/20, CV: 0.5889, NPMI: 0.1000, TD: 0.9660
+Epoch 10/20, Train Loss: 0.8112
+Epoch 10/20, CV: 0.5849, NPMI: 0.1045, TD: 0.9700
+Epoch 11/20, Train Loss: 0.8105
+Epoch 11/20, CV: 0.5845, NPMI: 0.1083, TD: 0.9640
+Epoch 12/20, Train Loss: 0.8093
+Epoch 12/20, CV: 0.5780, NPMI: 0.1066, TD: 0.9640
+Epoch 13/20, Train Loss: 0.8083
+Epoch 13/20, CV: 0.5526, NPMI: 0.0745, TD: 0.9680
+Epoch 14/20, Train Loss: 0.8076
+Epoch 14/20, CV: 0.5206, NPMI: 0.0547, TD: 0.9660
+Epoch 15/20, Train Loss: 0.8069
+Epoch 15/20, CV: 0.5482, NPMI: 0.0534, TD: 0.9720
+Epoch 16/20, Train Loss: 0.8060
+Epoch 16/20, CV: 0.5245, NPMI: 0.0322, TD: 0.9820
+Epoch 17/20, Train Loss: 0.8053
+Epoch 17/20, CV: 0.5374, NPMI: 0.0363, TD: 0.9800
+Epoch 18/20, Train Loss: 0.8045
+Epoch 18/20, CV: 0.5186, NPMI: 0.0352, TD: 0.9760
+Epoch 19/20, Train Loss: 0.8040
+Epoch 19/20, CV: 0.5000, NPMI: 0.0289, TD: 0.9840
+Epoch 20/20, Train Loss: 0.8033
+Epoch 20/20, CV: 0.5176, NPMI: 0.0192, TD: 0.9820
+End Training: 2024-09-18T19:51:22.087407+02:00
